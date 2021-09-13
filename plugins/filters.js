@@ -61,7 +61,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./Uploads/imash.m
 await message.client.sendMessage(message.jid, fs.readFileSync('Uploads/imash.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
         
-const array = ['imash']
+const array = ['imash','alive','fernando','nidusha']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
