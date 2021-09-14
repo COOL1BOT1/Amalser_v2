@@ -20,7 +20,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━💘SETVAR💘━━⛦
 𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 iMASH 𝐛𝐨𝐭.
   
-*ẉa.me/➳Setvar*
+*wa.me/𓄂𐌠𐤠𐤵ꓢ𐅒𓀞*
 ■□■□■□■□■□■□■□■□■□■□
 All setvars are
 
@@ -100,7 +100,7 @@ All setvars are
 
 *User Support : iMASH NIDUSHA✨️*
 
-      ═════💢💢═════
+      ═════💢iMASH BOT💢═════
 `}) 
 
 }));
